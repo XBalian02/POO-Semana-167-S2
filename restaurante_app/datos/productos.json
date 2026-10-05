@@ -1,0 +1,23 @@
+[
+  {
+    "id_producto": "p01",
+    "nombre": "Cangreburger",
+    "precio": 6.50,
+    "stock": 25,
+    "categoria": "Platos Fuertes"
+  },
+  {
+    "id_producto": "p02",
+    "nombre": "Chevecha",
+    "precio": 2.00,
+    "stock": 40,
+    "categoria": "Bebidas"
+  },
+  {
+    "id_producto": "p03",
+    "nombre": "Papas sin mas",
+    "precio": 2.50,
+    "stock": 30,
+    "categoria": "Entradas"
+  }
+]

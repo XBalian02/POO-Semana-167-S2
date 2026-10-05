@@ -1,0 +1,16 @@
+[
+    {
+        "id_usuario": "admin01",
+        "nombre": "Xavier Valencia",
+        "username": "Xavichi",
+        "password": "contraseñaxd",
+        "rol": "Administrador"
+    },
+    {
+        "id_usuario": "emp01",
+        "nombre": "Cajero Principal",
+        "username": "DonCajero",
+        "password": "contraseñacajeroxd",
+        "rol": "Empleado"
+    }
+]
